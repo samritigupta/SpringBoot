@@ -1,2 +1,2 @@
 # SpringBoot
-Project on Learning Spring boot basics
+Projects on Learning Spring boot basics
